@@ -1,2 +1,2 @@
 # image_learning_practise
-* An practise repository
+* A practise repository
